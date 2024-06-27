@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: explaingarlic-hugo-starter-8f9-dontforgettodeleteme
+owner: explaingarlic
+package: .
